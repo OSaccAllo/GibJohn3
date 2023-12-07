@@ -1,0 +1,69 @@
+.links{
+    padding: 20px;
+    border: 5px solid rgb(0, 0, 0);
+    background-color:cornflowerblue;
+    /* margin-top: 5px; */
+    font-weight: bold;
+    display: flex;
+    flex-direction: row;
+    width: auto;
+    align-content: right;
+    text-align: right;
+    font-size: 20px;
+    /* border: 10px solid rgb(248, 5, 5); */
+    
+
+
+}
+
+.Gib{
+    display: block;
+    transform: translate(0, 0);
+    justify-self: flex-start;
+    margin-right: 10px;
+    margin-left: 100px;
+    text-align: right;
+    color: aliceblue;
+    font-size: 50px;
+}
+.home{
+    display: block;
+    transform: translate(0, 0);
+    justify-self: flex-start;
+    margin-right: 10px;
+    margin-left: 1000px;
+    text-align: right;
+    color: aliceblue;
+}
+.Pricing{
+    display: block;
+    transform: translate(0, 0);
+    justify-self: flex-start;
+    margin-right: 10px;
+    margin-left: 10px;
+    text-align: right;
+    color: aliceblue;
+}
+.About{
+    display: block;
+    transform: translate(0, 0);
+    justify-self: flex-start;
+    margin-right: 10px;
+    margin-left: 10px;
+    text-align: right;
+    color: aliceblue;
+    
+}
+img{
+    width: 100px;
+    height: 100px;
+}
+.Login{
+    display: block;
+    transform: translate(0, 0);
+    justify-self: flex-start;
+    margin-right: 10px;
+    margin-left: 10px;
+    text-align: right;
+    color: aliceblue;
+}
